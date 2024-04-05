@@ -1,0 +1,107 @@
+Task1:EastUS 
+Connected to BookingManager successfully in 1033 milliseconds.
+Single-Client:1,Total-Request:100,Different Avaliable Rooms 
+Average response time: 170.014 ms
+Success rate: 100.000%
+Total requests made: 100
+Total successful requests: 100
+Data saved to run1-EastUS.csv
+
+Task2:EastUS
+Connected to BookingManager successfully in 1146 milliseconds.
+Multi-Client:10,Total-Request:100,Different Avaliable Rooms 
+Average response time: 198.288 ms
+Success rate: 96.000%
+Total requests made: 100
+Total successful requests: 96
+Data saved to run2-EastUS.csv
+
+Task3:EastUS
+Connected to BookingManager successfully in 1203 milliseconds.
+Multi-Client:10,Total-Request:300,10/30 Conflict Request 
+Average response time: 147.862 ms
+Success rate: 68.333%
+Total requests made: 300
+Total successful requests: 205
+Data saved to run3-EastUS.csv
+
+Task4:Local
+Connected to BookingManager successfully in 304 milliseconds.
+Single-Client:1,Total-Request:100,Different Avaliable Rooms 
+Average response time: 2.204 ms
+Success rate: 100.000%
+Total requests made: 100
+Total successful requests: 100
+Data saved to run1-Local.csv
+
+Task5:Local
+Connected to BookingManager successfully in 276 milliseconds.
+Multi-Client:10,Total-Request:100,Different Avaliable Rooms 
+Average response time: 5.466 ms
+Success rate: 100.000%
+Total requests made: 100
+Total successful requests: 100
+Data saved to run2-Local.csv
+
+Task6:Local
+Connected to BookingManager successfully in 280 milliseconds.
+Multi-Client:10,Total-Request:300,10/30 Conflict Request 
+Average response time: 2.766 ms
+Success rate: 69.667%
+Total requests made: 300
+Total successful requests: 209
+Data saved to run3-Local.csv
+
+Task7:NorthEurope
+Connected to BookingManager successfully in 601 milliseconds.
+Single-Client:1,Total-Request:100,Different Avaliable Rooms 
+Average response time: 40.865 ms
+Success rate: 100.000%
+Total requests made: 100
+Total successful requests: 100
+Data saved to run1-NorthEurope.csv
+
+Task8:NorthEurope
+Connected to BookingManager successfully in 439 milliseconds.
+Multi-Client:10,Total-Request:100,Different Avaliable Rooms 
+Average response time: 42.847 ms
+Success rate: 97.000%
+Total requests made: 100
+Total successful requests: 97
+Data saved to run2-NorthEurope.csv
+
+Task9:NorthEurope
+Connected to BookingManager successfully in 422 milliseconds.
+Multi-Client:10,Total-Request:300,10/30 Conflict Request 
+Average response time: 35.284 ms
+Success rate: 67.000%
+Total requests made: 300
+Total successful requests: 201
+Data saved to run3-NorthEurope.csv
+
+Task10:Japan
+Connected to BookingManager successfully in 1931 milliseconds.
+Single-Client:1,Total-Request:100,Different Avaliable Rooms 
+Average response time: 464.948 ms
+Success rate: 100.000%
+Total requests made: 100
+Total successful requests: 100
+Data saved to run1-Japan.csv
+
+Task11:Japan
+Connected to BookingManager successfully in 1830 milliseconds.
+Multi-Client:10,Total-Request:100,Different Avaliable Rooms 
+Average response time: 522.560 ms
+Success rate: 99.000%
+Total requests made: 100
+Total successful requests: 99
+Data saved to run2-Japan.csv
+
+Task12:Japan
+Connected to BookingManager successfully in 1898 milliseconds.
+Multi-Client:10,Total-Request:300,10/30 Conflict Request 
+Average response time: 418.997 ms
+Success rate: 69.667%
+Total requests made: 300
+Total successful requests: 209
+Data saved to run3-Japan.csv
